@@ -9,7 +9,7 @@
 }
 
 header {
-    background-image: url(vacas.jpeg);
+    background-image: url(dusterr.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -25,3 +25,31 @@ header {
     font-family: Papyrus, fantasy;
     margin-top: -10px;
 }
+
+header .lista {
+    list-style: none;
+    display: flex;
+}
+
+header .lista .a {
+    background-color: rgb(193, 196, 16);
+}
+
+header .lista .b {
+    position: absolute;
+    top: 23%;
+    margin-left: 10px;
+}
+
+header .lista .c{
+    position: absolute;
+    top: 23%;
+    margin-left: 70px;
+}
+
+header .lista .d {
+    position: absolute;
+    top: 23%;
+    margin-left: 130px;
+}
+
