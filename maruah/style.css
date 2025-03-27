@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.h1 {
+    color: black;
+}
+
+header {
+    background-image: url(vacas.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+    width: auto;
+    border-bottom: rgb(0, 0, 0) solid 6px;
+    border-top: rgb(0, 0, 0) solid 6px;
+}
+
+.titulo {
+    font-size: 3rem;
+    font-family: Papyrus, fantasy;
+    margin-top: -10px;
+}
