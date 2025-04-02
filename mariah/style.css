@@ -1,0 +1,36 @@
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    
+}
+
+th. td{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    transition: 
+}
+
+td. :hover {
+    background-color: blue;
+}
+.head {
+    background-color: rgb(85, 85, 133);
+}
+
+.linha {
+    background-color: rgb(138, 130, 130);
+}
+
+.preço {
+    background-color: rgb(138, 130, 130);
+}
+
+.categoria {
+    background-color: rgb(145, 168, 236);
+}
+
+.quantidade {
+    background-color: rgb(145, 168, 236);    
+}
